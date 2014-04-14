@@ -1,8 +1,8 @@
 {
   "name": "jszip",
   "repo": "chemzqm/jszip",
-  "description": "jszip",
-  "version": "0.0.1",
+  "description": "Genereate zip content on client side",
+  "version": "1.0.2",
   "keywords": [],
   "dependencies": {
   },
